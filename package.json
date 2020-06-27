@@ -1,0 +1,30 @@
+{
+  "name": "Nodemailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adambear1/Nodemailer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adambear1/Nodemailer/issues"
+  },
+  "homepage": "https://github.com/Adambear1/Nodemailer#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "helmet": "^3.23.3",
+    "inquirer": "^7.2.0",
+    "nodemailer": "^6.4.10"
+  }
+}
