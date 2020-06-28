@@ -25,6 +25,7 @@
     "express-handlebars": "^4.0.4",
     "helmet": "^3.23.3",
     "inquirer": "^7.2.0",
+    "nexmo": "^2.8.0",
     "nodemailer": "^6.4.10"
   }
 }

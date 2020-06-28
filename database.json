@@ -1,4 +1,20 @@
-{
-    "email": "adamcarlbirgenheier@gmail.com",
-    "phonenumber": "2533552021"
-}{"first_name":"mike","last_name":"hawk","email":"smith","phonenumber":"253552021"}
+[
+    {
+        "first_name": "Pamela",
+        "last_name": "Birgenheier",
+        "email": "practice@live.com",
+        "phonenumber": "253-222-2222"
+    },
+    {
+        "first_name": "Adam",
+        "last_name": "Birgenheier",
+        "email": "practice@gmail.com",
+        "phonenumber": "253-555-5555"
+    },
+    {
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "phonenumber": ""
+    }
+]
