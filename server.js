@@ -102,8 +102,8 @@ function contact() {
                     var transporter = nodemailer.createTransport({
                         service: 'Gmail',
                         auth: {
-                            user: process.env.EMAIL || 'cashforkeystacoma@gmail.com', // TODO: your gmail account
-                            pass: process.env.PASS || 'gemini253' // TODO: your gmail password
+                            user: process.env.EMAIL, // TODO: your gmail account
+                            pass: process.env.PASS  // TODO: your gmail password
                         }
                     });
                     let mailOptions = {
